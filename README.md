@@ -35,7 +35,7 @@
 
 ### 🚀 About Me
 
-I'm a Software Development Engineer with **3+ years** of experience building production-grade web applications. I'm currently focused on the intersection of **AI/ML and Web Development** — specifically, how to ship AI features that survive real users (not just demos).
+I'm a Software Development Engineer with **4+ years** of experience building production-grade web applications. I'm currently focused on the intersection of **AI/ML and Web Development** — specifically, how to ship AI features that survive real users (not just demos).
 
 - 🔭 Currently working on **AI-integrated web applications**
 - 🌱 Deep-diving into **Java SpringBoot, LLM applications, and scalable system design**
@@ -130,7 +130,7 @@ I'm always open to:
 - 🗣️ **Speaking opportunities** at meetups & conferences
 - ☕ **Coffee chats** with fellow builders
 
-📬 **Reach me:** [sparshgoelt26@gmail.com](mailto:sparshgoelt26@gmail.com)
+📬 **Reach me:** [sparshgoelcodes@gmail.com](mailto:sparshgoelcodes@gmail.com)
 
 ---
 
